@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:200,300,400,800');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
+// fonts
+$base-font: 'Nunito', sans-serif;
+
+// main colors
+$white: #FFFFFF; 
+$black: #373A39;
+$orange: #FF8300;
+$gray: #6F6F6F;
+$silver: #9B9B9B;
+$light-gray: #E7E7E7;
+$papaya: #29B06D;
+
