@@ -145,7 +145,7 @@
                     this.zoom = 18;
                     this.statusText= "<b>SEOUL, KOREA - HQ</b>" +
 						"<div style='font-size:13px;'><span style='color:#FF8300;'>Vertigo Games, Inc.</span>" +
-						"<br>16F Dong Hoon Tower, 317, Teheran-ro, " +
+						"<br>19F Dong Hoon Tower, 317, Teheran-ro, " +
 						"<br> Gangnam-gu, Seoul, Korea 06151 " +
 						"<br><br><a href='contact@vertigogames.com'>contact@vertigogames.com</a>" +
 						"<br> TEL +82+2-2051-9599</div>";

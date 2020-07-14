@@ -2,7 +2,7 @@
   "name": "vertigo",
   "version": "1.0.0",
   "description": "Vertigo Games company website project",
-  "author": "Grant Lee <grantlee@vertigogames.com>",
+  "author": "Brandon Pang <jaehoon.pang@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",

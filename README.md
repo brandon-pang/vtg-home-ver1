@@ -1,4 +1,5 @@
-# vertigo2
+# vertigo
+https://vertigogames.com
 
 > Vertigo Games company website project
 
